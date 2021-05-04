@@ -1,4 +1,4 @@
-#Predicting Online Shoppers’ Purchasing Intentions                                                                                                                
+# Predicting Online Shoppers’ Purchasing Intentions                                                                                                                
 
 Data Science project for the University of Toronto CHE1147: Data Mining in Engineering
 
